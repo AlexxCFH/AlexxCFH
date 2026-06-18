@@ -1,18 +1,15 @@
 <div align="center">
 
-# Hola, soy AlexxCFH 👋
+# Hola, soy Alejandro Villena 👋
 
-### Desarrollador Full-Stack · Artista 3D
-
-*Construyo software y doy forma a mundos en 3D.*
-
+### Estudiante de Ingenieria Multimedia 
 ---
 
 </div>
 
 ## Sobre mí
 
-Soy desarrollador con experiencia en frontend, backend y bases de datos. También tengo habilidades en modelado 3D, lo que me da una visión creativa y técnica a la vez. Me gusta construir proyectos completos, desde la lógica del servidor hasta la interfaz visual.
+Soy estudiante de Ingeniería Multimedia con conocimientos en frontend, backend y bases de datos. También tengo habilidades en modelado 3D con mas exeriencia en piezas técnicas que artisticas. Me gusta el aprendizaje de herramientas nuevas.
 
 ---
 
@@ -49,8 +46,7 @@ Manejo modelado orgánico y diseño de piezas en CAD paramétrico. Trabajo tanto
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-villena-herreros-aaa901388/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avillenaherreros1373@gmail.com)
 
 </div>
