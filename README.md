@@ -9,7 +9,7 @@
 
 ## Sobre mí
 
-Soy estudiante de Ingeniería Multimedia con conocimientos en frontend, backend y bases de datos. También tengo habilidades en modelado 3D con mas exeriencia en piezas técnicas que artisticas. Me gusta el aprendizaje de herramientas nuevas.
+Soy estudiante de Ingeniería Multimedia con conocimientos en frontend, backend y bases de datos. También tengo habilidades en modelado 3D con mas experiencia en piezas técnicas que artisticas. Me gusta el aprendizaje de herramientas nuevas y nuevos retos.
 
 ---
 
